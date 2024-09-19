@@ -11,8 +11,8 @@ public class Main
         int intQuotient = 0;
         int intModulo = 0;
 
-        double doubleOperandA = 14.14
-        double doubleOperandB = 3.14
+        double doubleOperandA = 14.14;
+        double doubleOperandB = 3.14;
 
         double doubleSum = 0;
         double doubleProduct = 0;
