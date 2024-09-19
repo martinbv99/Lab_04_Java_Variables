@@ -53,6 +53,7 @@ public class Main
 
 
         double lunchCost = 15.50;
+        System.out.println("The cost of my lunch is: " + lunchCost);
 
 
     }
